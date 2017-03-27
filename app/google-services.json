@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "644408398401",
+    "firebase_url": "https://sil-android-5076e.firebaseio.com",
+    "project_id": "sil-android-5076e",
+    "storage_bucket": "sil-android-5076e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644408398401:android:5c4dc0d58fe4bdcc",
+        "android_client_info": {
+          "package_name": "hanuor.in.sil_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644408398401-opbp6c3rdmaq2t8dnd34tj7q6nhpm6h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldGmZ6jj1PCxJnU_CFBVt0YV1XD9RQHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644408398401:android:6043749a3eb232db",
+        "android_client_info": {
+          "package_name": "hanuor.in.sil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644408398401-opbp6c3rdmaq2t8dnd34tj7q6nhpm6h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldGmZ6jj1PCxJnU_CFBVt0YV1XD9RQHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
